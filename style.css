@@ -1,0 +1,30 @@
+        html,body{
+           margin:0; 
+        }
+
+        header{
+            text-align: center;
+            font-size: 15px;
+            background-color: black;
+            margin: 0;
+            position: relative;
+        }
+        h1{
+            margin:0;
+            color: white;
+        }
+        #left-align{
+            text-align: left;
+            float: left;
+            display: inline;
+            width:50%;
+        }
+        #right-align{
+            text-align: right;
+            float: right;
+            position:relative;
+            right: 10%;
+        }
+        p{
+            width:50%;
+        }
